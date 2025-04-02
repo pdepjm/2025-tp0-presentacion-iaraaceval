@@ -18,6 +18,4 @@ ___
 
 ## Acá les dejo una foto mía y una de las cientas de fotos que tengo de mi perra
 
-![foto mia](/fotoMia.jpg)
-
-![foto de Cloe](/fotoCloe.jpg)
+<img src="fotoMia.jpg" width="300"> <img src="fotoCloe.jpg" width="300"> 
